@@ -263,6 +263,10 @@ img {
     padding: 5px
   }
 
+  a {
+    color: white;
+  }
+
 /* Media Query */
 
   @media screen and (max-width: 768px) {
@@ -276,4 +280,6 @@ img {
       width: 600px;
     }
   }
+
+  
   
